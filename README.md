@@ -3,7 +3,8 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=feritaribulan" alt="feritaribulan" /></a> </p>
 
 - 🔭  Co-founder of **Array Tech** <br>
-- 📫  ferit.aribulan@arraytech.co , info@arraytech.co  <br>
+- 📫  ferit.aribulan@arraytech.co  <br>
+- 📫  info@arraytech.co <br>
 - 👉  https://feritaribulan.com.tr  <br>
 - 👉  https://arraytech.co  <br>
 
