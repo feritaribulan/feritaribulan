@@ -12,4 +12,4 @@
 [<img align="left" alt="feritaribulan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/feritaribulan/)
 [<img align="left" alt="feritaribulan | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/frtarbln/)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=meryamabdulla&show_icons=true&locale=en" alt="meryamabdulla" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feritaribulan&show_icons=true&locale=en" alt="feritaribulan" /></p>
