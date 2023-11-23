@@ -12,4 +12,3 @@
 [<img align="left" alt="feritaribulan | LinkedIn" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" />](https://www.linkedin.com/in/feritaribulan/)
 [<img align="left" alt="feritaribulan | Instagram" width="22px" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" />](https://www.instagram.com/frtarbln/)
 <br>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=feritaribulan&show_icons=true&locale=en" alt="feritaribulan" /></p>
